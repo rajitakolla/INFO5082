@@ -7,7 +7,7 @@ This project mainly focuses on which type of modelling technique can be used for
 
 Algorithms:
 
-1)   LDA
+(1)   LDA
 
 (2)   LSA
 
