@@ -8,16 +8,25 @@ This project mainly focuses on which type of modelling technique can be used for
 Algorithms:
 
 1)   LDA
+
 (2)   LSA
+
 (3)   Labeled LDA (LLDA): https://github.com/JoeZJH/Labeled-LDA-Python
+
 (4)   Biterm Topic Model (BTM): https://github.com/markoarnauto/biterm
+
 (5)   HMM-LDA: https://github.com/dongwookim-ml/python-topic-model
+
 (6)   SupervisedLDA: https://github.com/dongwookim-ml/python-topic-model/tree/master/notebook
+
 (7)   Relational Topic Model: https://github.com/dongwookim-ml/python-topic-model/tree/master/notebook
+
 (8)   LDA2VEC: https://github.com/cemoody/lda2vec
+
 (9)   BERTopic: https://github.com/MaartenGr/BERTopic
+
 (10)  LDA+BERT Topic Modeling: https://www.kaggle.com/dskswu/topic-modeling-bert-lda
-(11)  Clustering for Topic models: (paper: https://arxiv.org/abs/2004.14914), (code: https://github.com/adalmia96/Cluster-Analysis)
+
 
 
 Flow of Project:
