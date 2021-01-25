@@ -11,21 +11,21 @@ Algorithms:
 
 (2)   LSA
 
-(3)   Labeled LDA (LLDA): https://github.com/JoeZJH/Labeled-LDA-Python
+(3)   Labeled LDA (LLDA)
 
-(4)   Biterm Topic Model (BTM): https://github.com/markoarnauto/biterm
+(4)   Biterm Topic Model (BTM)
 
-(5)   HMM-LDA: https://github.com/dongwookim-ml/python-topic-model
+(5)   HMM-LDA
 
-(6)   SupervisedLDA: https://github.com/dongwookim-ml/python-topic-model/tree/master/notebook
+(6)   SupervisedLDA
 
-(7)   Relational Topic Model: https://github.com/dongwookim-ml/python-topic-model/tree/master/notebook
+(7)   Relational Topic Model
 
-(8)   LDA2VEC: https://github.com/cemoody/lda2vec
+(8)   LDA2VEC
 
-(9)   BERTopic: https://github.com/MaartenGr/BERTopic
+(9)   BERTopic
 
-(10)  LDA+BERT Topic Modeling: https://www.kaggle.com/dskswu/topic-modeling-bert-lda
+(10)  LDA+BERT Topic Modeling
 
 
 
